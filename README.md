@@ -7,4 +7,4 @@
 - ingress using nginx ingress controller.
 
 ## Note:
-This project requires nginx ingress controller to setup the nginx ingress controller see the [Getting Started](https://kubernetes.github.io/ingress-nginx/deploy/) document.
+This project requires nginx ingress controller to setup the nginx ingress controller, see the [Getting Started](https://kubernetes.github.io/ingress-nginx/deploy/) document.
